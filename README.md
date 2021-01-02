@@ -1,2 +1,2 @@
 # Numpy_Assignment_1
-Numpy Assignment 1
+PIAIC Q2 AIC Numpy Assignment 1 
